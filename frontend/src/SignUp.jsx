@@ -26,7 +26,7 @@ const SignUp = () => {
     <div className="signup-container">
       <div className="signup-form-container">
         <h2>Create Account</h2>
-        <p id='p1'>Test your knowledge with our quizzes.</p>
+        <p id='p1'>Unlock your campus community buy,sell and connect smarter.</p>
         <form onSubmit={handleSubmit} className="signup-form">
           <div className="form-group">
             <label htmlFor="username">Username</label>
