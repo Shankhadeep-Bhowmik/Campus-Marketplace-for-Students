@@ -3,8 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 .container{
-  background-color: rgb(37, 94, 218);
+  background-color: blueviolet;
   height: 100vh;
   display: flex;
   justify-content: center;
